@@ -23,7 +23,7 @@ p {
 
 /* introduction Area Css Start*/
 #introduction {
-	background-image: url("/images/header-bg.png");
+	background-image: url("images/header-bg.png");
 	background-repeat: no-repeat;
 	background-position: left;
 	background-size: cover;
@@ -65,7 +65,7 @@ p {
 
 /* biography Area Css Start*/
 #biography {
-	background-image: url(/images/biography-bg.png);
+	background-image: url("images/biography-bg.png");
 	background-repeat: no-repeat;
 	background-position: left;
 	height: 1050px;
@@ -90,7 +90,7 @@ p {
 
 /* Latest Work Area Css  Start*/
 #latest_work {
-	background-image: url("/images/latest-work-bg.png");
+	background-image: url("images/latest-work-bg.png");
 	background-repeat: no-repeat;
 	background-position: center;
 	height: 450px;
@@ -114,7 +114,7 @@ p {
 
 /* Client Area  Start*/
 #client_say {
-	background-image: url("/images/footer-bg.png");
+	background-image: url("images/footer-bg.png");
 	background-position: center;
 	background-repeat: no-repeat;
 	height: 500px;
