@@ -1,0 +1,145 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	font-family: 'Poppins', sans-serif;
+}
+
+h2 {
+	font-size: 30px;
+	font-weight: normal;
+}
+
+p {
+	color: gray;
+}
+
+.btn {
+	background-image: linear-gradient(45deg, #ec5093, #ec4b74);
+	color: white;
+	text-decoration: none;
+	padding: 7px 25px;
+	border-radius: 5px;
+}
+
+/* introduction Area Css Start*/
+#introduction {
+	background-image: url("/images/header-bg.png");
+	background-repeat: no-repeat;
+	background-position: left;
+	background-size: cover;
+	height: 650px;
+}
+#introduction_left {
+	width: 45%;
+	float: left;
+	margin-left: 9%;
+	padding-left: 2%;
+	margin-top: 165px;
+}
+
+#introduction_left p {
+	color: gray;
+	padding: 10px 0px;
+}
+
+#introduction_right {
+	width: 35%;
+	float: left;
+	margin-top: 70px;
+}
+
+#introduction_left h1 {
+	color: #ec4c7a;
+	font-size: 40px;
+}
+
+#introduction_left h2 {
+	top: 25px;
+	position: relative;
+}
+
+#introduction_right img {
+	width: 100%;
+}
+/* introduction Area Css End*/
+
+/* biography Area Css Start*/
+#biography {
+	background-image: url(/images/biography-bg.png);
+	background-repeat: no-repeat;
+	background-position: left;
+	height: 1050px;
+}
+#biography_left {
+	width: 40%;
+	float: left;
+	margin-left: 9%;
+	padding-left: 2%;
+	margin-top: 200px;
+	margin-right: 5%;
+}
+#biography_left img {
+	width: 85%;
+}
+#biography_right {
+	float: left;
+	margin-top: 260px;
+	width: 40%;
+}
+/* biography Area Css End*/
+
+/* Latest Work Area Css  Start*/
+#latest_work {
+	background-image: url("/images/latest-work-bg.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 450px;
+}
+#latest_work h2 {
+	text-align: center;
+	margin-bottom: 40px;
+}
+#all_works {
+	text-align: center;
+	margin-left: 20%;
+}
+#latest_work .work {
+	width: 25%;
+	float: left;
+}
+#latest_work .work img {
+	width: 100%;
+}
+/* Latest Work Area Css  End*/
+
+/* Client Area  Start*/
+#client_say {
+	background-image: url("/images/footer-bg.png");
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 500px;
+	margin: 0 auto;
+	text-align: center;
+}
+.what_client_say {
+	width: 40%;
+	margin: 0 auto;
+}
+#client_say h1 {
+	color: #4f4343;
+}
+#client_say .contact {
+	background-image: linear-gradient(45deg, #ec5093, #ec4b74);
+	color: white;
+	padding: 5px 50px;
+	border-radius: 5px;
+	width: 40%;
+	margin: 0 auto;
+}
+/* Footer Area  End*/
+
+/* Footer Area  Start*/
+footer {
+	text-align: center;
+}
+/* Footer Area  End*/
